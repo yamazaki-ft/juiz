@@ -19,7 +19,7 @@
 # Notes:
 #
 # Author:
-#  yamazaki_ft
+#  yamazaki-ft
 class Table
   constructor: (@brain, @table) ->
 
